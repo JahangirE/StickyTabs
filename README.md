@@ -4,6 +4,14 @@ StickyTabs is a lightweight desktop note-taking application built with Python an
 
 The project was built as a standalone desktop application with persistent local storage, rich-text editing, tab customization, hyperlink support, and PyInstaller packaging for a standalone Windows executable.
 
+## Download
+
+A standalone Windows executable is available from the latest GitHub release.
+
+[Download StickyTabs for Windows](https://github.com/JahangirE/StickyTabs/releases/latest)
+
+No Python installation is required.
+
 ## Features
 
 - Create, rename, reorder, navigate, and delete multiple note tabs
